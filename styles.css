@@ -1,0 +1,26 @@
+body {
+  background-color: #f0f5f9;
+  text-align: center;
+}
+
+.dice {
+  display: inline-block;
+  margin: 0 2%;
+}
+
+.title {
+  color: #f85f73;
+  font-size: 3rem;
+}
+.result {
+  color: #1fab89;
+  font-size: 3rem;
+  visibility: hidden;
+}
+.btn {
+  font-size: 1.5rem;
+  padding: 0.5% 3%;
+  border-radius: 7px;
+  background-color: #155263;
+  color: #fff;
+}
